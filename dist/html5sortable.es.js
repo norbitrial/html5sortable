@@ -1302,4 +1302,4 @@ sortable.__testing = {
     removeContainerEvents: removeContainerEvents
 };
 
-export default sortable;
+export { sortable as default };
